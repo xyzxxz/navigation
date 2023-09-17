@@ -1,6 +1,6 @@
 # nav.xyzxxz.xyz
 
-This template should help get you started developing with Vue 3 in Vite.
+新手入门，希望有人能指点一二
 
 ## Recommended IDE Setup
 
