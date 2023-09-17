@@ -1,0 +1,219 @@
+{
+    "Overall": {
+        "title": "综合网站",
+        "id": "zonghewangzhan",
+        "sites": [
+            {
+                "title": "Bilibili",
+                "id": "bilibili",
+                "icon": "https://www.xue8nav.com/wp-content/uploads/2020/01/bilibili.png",
+                "link": "https://www.bilibili.com/",
+                "description": ""
+            },
+            {
+                "title": "中国大学MOOC",
+                "id": "icourse163",
+                "icon": "https://www.xue8nav.com/wp-content/uploads/2020/01/icourse163.png",
+                "link": "https://www.icourse163.org/",
+                "description": ""
+            }
+        ]
+    },
+    "Language": {
+        "title": "外语学习",
+        "id": "waiyuxuexi",
+        "sites": [
+            {
+                "title": "百词斩",
+                "id": "baicizhan",
+                "icon": "https://www.xue8nav.com/wp-content/uploads/baicizhan.png",
+                "link": "http://www.baicizhan.com/",
+                "description": ""
+            },
+            {
+                "title": "田间小站",
+                "id": "tianfateng",
+                "icon": "https://www.xue8nav.com/wp-content/uploads/2020/01/tianfateng.png",
+                "link": "https://www.tianfateng.cn/",
+                "description": ""
+            }
+        ]
+    },
+    "Programming": {
+        "title": "编程学习",
+        "id": "bianchengxuexi",
+        "sites": [
+            {
+                "title": "Github",
+                "id": "github",
+                "icon": "",
+                "link": "https://github.com/",
+                "description": ""
+            },
+            {
+                "title": "Stack Overflow",
+                "id": "stackoverflow",
+                "icon": "",
+                "link": "https://stackoverflow.com/",
+                "description": ""
+            },
+            {
+                "title": "LeetCode",
+                "id": "leetcode",
+                "icon": "",
+                "link": "https://leetcode.com/",
+                "description": ""
+            },
+            {
+                "title": "freeCodeCamp",
+                "id": "freecodecamp",
+                "icon": "",
+                "link": "https://www.freecodecamp.org/",
+                "description": ""
+            },
+            {
+                "title": "CSDN",
+                "id": "csdn",
+                "icon": "",
+                "link": "https://www.csdn.net/",
+                "description": ""
+            },
+            {
+                "title": "掘金",
+                "id": "juejin",
+                "icon": "",
+                "link": "https://juejin.cn/",
+                "description": ""
+            },
+            {
+                "title": "华为开发者学堂",
+                "id": "developerhuaweicomtraining",
+                "icon": "",
+                "link": "https://developer.huawei.com/consumer/cn/training/",
+                "description": ""
+            },
+            {
+                "title": "慕课网",
+                "id": "imooc",
+                "icon": "",
+                "link": "https://www.imooc.com/",
+                "description": ""
+            },
+            {
+                "title": "牛客网",
+                "id": "nowcoder",
+                "icon": "",
+                "link": "https://www.nowcoder.com/",
+                "description": ""
+            },
+            {
+                "title": "MDN 学习区",
+                "id": "developermozillaorg",
+                "icon": "",
+                "link": "https://developer.mozilla.org/zh-CN/docs/learn",
+                "description": ""
+            },
+            {
+                "title": "W3School",
+                "id": "w3school",
+                "icon": "",
+                "link": "https://www.w3school.com.cn/",
+                "description": ""
+            }
+        ]
+    },
+    "Design": {
+        "title": "艺术设计",
+        "id": "yishusheji",
+        "sites": [
+            {
+                "title": "doyoudo",
+                "id": "doyoudo",
+                "icon": "",
+                "link": "https://www.doyoudo.com/free",
+                "description": ""
+            },
+            {
+                "title": "Oeasy",
+                "id": "oeasy",
+                "icon": "",
+                "link": "http://oeasy.org/",
+                "description": ""
+            },
+            {
+                "title": "Adobe官方教程",
+                "id": "helpxadobecom",
+                "icon": "",
+                "link": "https://helpx.adobe.com/cn/support/support-new/learn-apps.html#phsp",
+                "description": ""
+            },
+            {
+                "title": "UI中国",
+                "id": "ui",
+                "icon": "",
+                "link": "https://www.ui.cn/",
+                "description": ""
+            }
+        ]
+    },
+    "Books": {
+        "title": "电子书籍",
+        "id": "dianzishuji",
+        "sites": [
+            {
+                "title": "鸠摩搜书",
+                "id": "jiumodiary",
+                "icon": "",
+                "link": "https://www.jiumodiary.com/",
+                "description": ""
+            },
+            {
+                "title": "书格",
+                "id": "shuge",
+                "icon": "",
+                "link": "https://new.shuge.org/",
+                "description": ""
+            },
+            {
+                "title": "微信读书",
+                "id": "wereadqq.com",
+                "icon": "",
+                "link": "https://weread.qq.com/",
+                "description": ""
+            },
+            {
+                "title": "GitBook",
+                "id": "gitbook",
+                "icon": "",
+                "link": "https://www.gitbook.com/",
+                "description": ""
+            }
+        ]
+    },
+    "Music": {
+        "title": "音乐",
+        "id": "yinyue",
+        "sites": [
+            {
+                "title": "Flowkey",
+                "id": "flowkey",
+                "icon": "",
+                "link": "https://www.flowkey.com/zh",
+                "description": ""
+            }
+        ]
+    },
+    "Art": {
+        "title": "绘画",
+        "id": "huihua",
+        "sites": [
+            {
+                "title": "蓝铅笔",
+                "id": "lanqb",
+                "icon": "",
+                "link": "https://www.lanqb.com/",
+                "description": ""
+            }
+        ]
+    }
+}
